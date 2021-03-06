@@ -1,0 +1,26 @@
+
+body{
+    background-image: url('signin.jpg');
+    background-position:center;
+}
+.flex{
+    
+    display:flex;
+    justify-content:center;
+    width:800px;
+    height:550px;
+    
+    background-color:rgba(255, 255, 255, 0.418); ;
+    margin: 0 auto;
+    margin-top: 10vw;
+  }
+
+#forform{
+    
+    width:50vh;
+  
+}
+
+*{
+    color:#413d57 ;
+}
