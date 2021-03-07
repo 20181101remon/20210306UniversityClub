@@ -1,0 +1,32 @@
+.header{
+    background-color: #23212F;
+    color: #F8F8F6;
+}
+footer{
+    background-color: #23212F;
+    color: #F8F8F6;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    font-size: .8rem;
+}
+a{
+    color: #F8F8F6;
+}
+a:hover{
+    color: #BF4826;
+}
+.dark{
+    color: #23212F;
+}
+.light{
+    color:#F8F8F6;
+}
+.c1{
+    color: #DFCFB8;
+}
+.c2{
+    color: #E5B48A;
+}
+.c3{
+    color:#BF4826;
+}
