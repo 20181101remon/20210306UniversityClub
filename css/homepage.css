@@ -1,6 +1,6 @@
 .cover
 {
-    background-image: url('homecover.jpg');
+    background-image: url('../homecover.jpg');
     background-size: cover;
     background-position:left;
     height: 100vh;
