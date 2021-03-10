@@ -1,9 +1,9 @@
-.header{
-    background-color: #23212F;
+header{
+    background-color: #2f2c40;
     color: #F8F8F6;
 }
 footer{
-    background-color: #23212F;
+    background-color: #2f2c40;
     color: #F8F8F6;
     padding-top: .5rem;
     padding-bottom: .5rem;
@@ -15,11 +15,15 @@ a{
 a:hover{
     color: #BF4826;
 }
+.bg{
+    background-color: #eee7dd;
+}
 .dark{
-    color: #23212F;
+    color: #2f2c40;
 }
 .light{
-    color:#F8F8F6;
+    background-color:#eee7dd;
+    color: #2f2c40;
 }
 .c1{
     color: #DFCFB8;
